@@ -10,10 +10,7 @@ iframe {
   width: 100%;
 }
 p.info {
-  background: #ffffffb8;
-  padding: 5px;
-  color: red;
-  border: 2px solid red;
+  color: white;
 }
 button.suggest {
   padding: 10px 20px;
