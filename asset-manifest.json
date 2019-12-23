@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/leanaAlq/where-to-eat.git/static/css/main.2deca179.chunk.css",
+    "main.js": "/leanaAlq/where-to-eat.git/static/js/main.d37de52e.chunk.js",
+    "main.js.map": "/leanaAlq/where-to-eat.git/static/js/main.d37de52e.chunk.js.map",
+    "runtime-main.js": "/leanaAlq/where-to-eat.git/static/js/runtime-main.8d6f7cfc.js",
+    "runtime-main.js.map": "/leanaAlq/where-to-eat.git/static/js/runtime-main.8d6f7cfc.js.map",
+    "static/js/2.9929e63f.chunk.js": "/leanaAlq/where-to-eat.git/static/js/2.9929e63f.chunk.js",
+    "static/js/2.9929e63f.chunk.js.map": "/leanaAlq/where-to-eat.git/static/js/2.9929e63f.chunk.js.map",
+    "index.html": "/leanaAlq/where-to-eat.git/index.html",
+    "precache-manifest.bb5fc1a61aa0d90879bb8e0aa7264a7c.js": "/leanaAlq/where-to-eat.git/precache-manifest.bb5fc1a61aa0d90879bb8e0aa7264a7c.js",
+    "service-worker.js": "/leanaAlq/where-to-eat.git/service-worker.js",
+    "static/css/main.2deca179.chunk.css.map": "/leanaAlq/where-to-eat.git/static/css/main.2deca179.chunk.css.map",
+    "static/js/2.9929e63f.chunk.js.LICENSE": "/leanaAlq/where-to-eat.git/static/js/2.9929e63f.chunk.js.LICENSE",
+    "static/media/landingPage.css": "/leanaAlq/where-to-eat.git/static/media/background.a9a75cdd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d6f7cfc.js",
+    "static/js/2.9929e63f.chunk.js",
+    "static/css/main.2deca179.chunk.css",
+    "static/js/main.d37de52e.chunk.js"
+  ]
+}
